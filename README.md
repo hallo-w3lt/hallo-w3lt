@@ -1,5 +1,5 @@
 ### Hi, I'm Víctor
-
+![cup](https://user-images.githubusercontent.com/1911272/87825540-52763a80-c845-11ea-8466-7683f5fd9544.png)
 <h1 align="center">Hi, I'm Víctor Domínguez</h1>
 <h3 align="center">Programmer at @itandfeel, working in #ParanoidShield, from Venezuela</h3>
 
