@@ -6,15 +6,15 @@
 - 💬 Ask me about **UE4, C++, C#, Symfony or Javascript**
 
 <p align="center">  
-  <img src="https://cdn.iconscout.com/icon/free/png-64/unreal-engine-3-599431.png" alt="ue4" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/unreal-engine-3-599431.png" alt="ue4" width="48" height="48"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="48" height="48"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="48"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
 </p>
 
 <p align="center">
