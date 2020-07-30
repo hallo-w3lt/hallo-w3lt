@@ -8,7 +8,7 @@
 <p align="center">  
   <img src="https://cdn.iconscout.com/icon/free/png-64/unreal-engine-3-599431.png" alt="ue4" width="48" height="48"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/angularjs.png" alt="angularjs" width="48" height="48"/> 
-  <img src="https://img.icons8.com/windows/32/000000/symfony.png" alt="symfony" width="48" height="48"/>
+  <img src="https://img.icons8.com/windows/32/000000/symfony.png" alt="symfony"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/android-os.png" alt="android" width="48" height="48"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="cplusplus" width="48" height="48"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" alt="csharp" width="48" height="48"/> 
