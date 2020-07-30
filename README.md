@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" alt="csharp" width="48" height="48"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="javascript" width="48" height="48"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/typescript.png" alt="typescript" width="48" height="48"/> 
-  <img src="https://img.icons8.com/windows/32/000000/nodejs.png" alt="nodejs" width="48" height="48"/>
+  <img src="https://img.icons8.com/windows/32/000000/nodejs.png" alt="nodejs"/>
 </p>
 
 <p align="center">
