@@ -6,7 +6,7 @@
 💬 **Ask me about:**
 - C++ STL 11/14/17/20
 - Qt/QML 5+
-- UE4
+- UE4/5
 - C# 9+
 - Symfony 5+
 - Angular 13+
@@ -14,7 +14,11 @@
 - Git
 
 [itandfeel](https://www.itandfeel.com)
+-
 [paranoid-shield](https://www.paranoid-shield.com)
+-
 [twitter](https://twitter.com/hallo_w3lt)
+-
 [linkedin](https://linkedin.com/in/develop3r)
+-
 [fiverr](https://www.fiverr.com/itandfeel)
