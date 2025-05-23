@@ -27,9 +27,9 @@ As a **Software Developer at BYTEHIDE**, I've collaborated on a wide range of to
 - **Visual Studio & Unity Plugin**: Engineered the **Bytehide.Shield plugin** for VS 2019/2022 and Unity 3D.
 - **JavaScript Ecosystem Integration**: Adapted Shield to **Next.js**, **Node.js**, **Webpack**, **React Native**, **Vite**, **gulp**, **Grunt**, and **Rollup**.
 - **SDK Development**:
-  - 🔧 `Bytehide.Linker`
-  - 🧰 `Bytehide.ToolBox`
-  - 🧪 `Bytehide.Quantum`
+  - `Bytehide.Linker`
+  - `Bytehide.ToolBox`
+  - `Bytehide.Quantum`
 - **.NET Tools**: Internal applications including `Bytehide.Monitor`, `Bytehide.Storage`, `Bytehide.Logger`, and `Bytehide.License`.
 - **JavaScript Tools**: Developed `Bytehide.Storage` and `Bytehide.Logger`.
 
@@ -64,8 +64,8 @@ This role has deepened my experience in cutting-edge tech while contributing to 
 
 ### 🎮 Games on Steam
 
-- 🌲 [**Forest 6174**](https://store.steampowered.com/app/3162920/Forest_6174/) – A brief narrative-driven psychological horror.  
-- 🚌 [**The Midnight Bus**](https://store.steampowered.com/app/3101670/The_Midnight_Bus/) – A short narrative horror experience.  
+- [**Forest 6174**](https://store.steampowered.com/app/3162920/Forest_6174/) – A brief narrative-driven psychological horror.  
+- [**The Midnight Bus**](https://store.steampowered.com/app/3101670/The_Midnight_Bus/) – A short narrative horror experience.  
 
 > Both developed with Unreal Engine, driven by storytelling, atmosphere, and immersive audio.
 
