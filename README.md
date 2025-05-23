@@ -48,7 +48,7 @@ This role has deepened my experience in cutting-edge tech while contributing to 
 - **Symfony & PHP 8+** – Enterprise-grade backends
 - **ORM**: Realm, Doctrine, TypeORM
 - **Database**: PostgreSQL, MySQL, SQLite
-- **Asset Pipelines** – Blender, Substance Designer, Aseprite
+- **Asset Pipelines** – Blender, Substance Painter/Designer, Aseprite
 
 ---
 
