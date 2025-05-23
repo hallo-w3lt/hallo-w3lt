@@ -2,6 +2,7 @@
 <h3 align="center">🎮 Software & Game Developer | Unreal Engine Enthusiast | Texture Artist</h3>
 
 <p align="center">
+  <a href="https://www.patreon.com/c/itandfeel" target="_blank"><img src="https://img.shields.io/badge/Patreon-Itandfeel-blue?style=flat-square&logo=patreon" /></a>
   <a href="https://www.itandfeel.com" target="_blank"><img src="https://img.shields.io/badge/Studio-Itandfeel-blue?style=flat-square&logo=unrealengine" /></a>
   <a href="https://www.paranoid-shield.com" target="_blank"><img src="https://img.shields.io/badge/Project-ParanoidShield-orange?style=flat-square" /></a>
   <a href="https://linkedin.com/in/develop3r" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
@@ -67,6 +68,16 @@ This role has deepened my experience in cutting-edge tech while contributing to 
 - 🚌 [**The Midnight Bus**](https://store.steampowered.com/app/3101670/The_Midnight_Bus/) – A short narrative horror experience.  
 
 > Both developed with Unreal Engine, driven by storytelling, atmosphere, and immersive audio.
+
+---
+
+### 🛠️ Tools
+
+- [**UTools (Utility Plugin)**](https://www.patreon.com/itandfeel/shop/utools-utility-plugin-840923?source=storefront) – A versatile and user-friendly plugin designed to streamline asset management workflows in **Unreal Engine**. Ideal for teams and solo developers looking to save time and reduce repetitive tasks.
+  
+- [**Snow System for Unreal Engine 5**](https://www.patreon.com/posts/snow-system-in-5-121890628?source=storefront) – A ready-to-integrate system for **dynamic snow coverage, freezing effects**, and **cloud masking**. Built for performance and visual quality in UE5.
+
+> These tools are crafted to enhance productivity and push creative boundaries in real-time development.
 
 ---
 
