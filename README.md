@@ -13,6 +13,8 @@
 - Node / NestJS
 - Git
 
+[steam](https://store.steampowered.com/developer/itandfeel)
+
 [itandfeel](https://www.itandfeel.com)
 
 [paranoid-shield](https://www.paranoid-shield.com)
