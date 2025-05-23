@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Victor</h1>
-<h3 align="center">🎮 Unreal Engine Developer | 🧠 Tech Artist | 💻 Software Craftsman</h3>
+<h3 align="center">🎮 Software & Game Developer | Unreal Engine Enthusiast | Texture Artist</h3>
 
 <p align="center">
   <a href="https://www.itandfeel.com" target="_blank"><img src="https://img.shields.io/badge/Studio-Itandfeel-blue?style=flat-square&logo=unrealengine" /></a>
@@ -11,15 +11,13 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-I'm a software developer with over **15 years of experience**, and more than **8 years focused on Unreal Engine**. I specialize in creating **immersive gameplay experiences**, building **custom engine extensions**, and developing **high-performance plugins** that expand Unreal's capabilities.
-
-My passion lies in fusing **technical excellence** with **artistic vision**—whether that’s through Wwise audio integration, dynamic rendering systems, or building tools that streamline workflows for game developers.
+I am a software developer with over 15 years of experience in software development and more than 8 years of working with Unreal Engine. I have a deep understanding of the engine and enjoy creating immersive experiences, developing plugins and extending its capabilities to support game developers.
 
 ---
 
-### 🏢 Bytehide Solutions, S.L – Contributions
+### Bytehide Solutions, S.L – Contributions
 
 As a **Software Developer at BYTEHIDE**, I've collaborated on a wide range of tools and systems for the Bytehide product ecosystem:
 
