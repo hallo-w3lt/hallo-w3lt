@@ -73,11 +73,20 @@ This role has deepened my experience in cutting-edge tech while contributing to 
 
 ### 🛠️ Tools
 
-- [**UTools (Utility Plugin)**](https://www.patreon.com/itandfeel/shop/utools-utility-plugin-840923?source=storefront) – A versatile and user-friendly plugin designed to streamline asset management workflows in **Unreal Engine**. Ideal for teams and solo developers looking to save time and reduce repetitive tasks.
+- [**UTools (Utility Plugin)**](https://github.com/ITandfeel/utools) – A versatile and user-friendly plugin designed to streamline asset management workflows in **Unreal Engine**. Ideal for teams and solo developers looking to save time and reduce repetitive tasks.
   
 - [**Snow System for Unreal Engine 5**](https://www.patreon.com/posts/snow-system-in-5-121890628?source=storefront) – A ready-to-integrate system for **dynamic snow coverage, freezing effects**, and **cloud masking**. Built for performance and visual quality in UE5.
 
 > These tools are crafted to enhance productivity and push creative boundaries in real-time development.
+
+---
+
+### 🛠️ Products
+
+- [**Paranoid Shield – Password Manager**](https://www.paranoid-shield.com/)  
+  A secure, offline password manager that puts you in complete control. All your credentials, stored locally under your own safeguard, never shared, never synced to the cloud.  
+   - **AES-256 encryption**, 100% offline  
+   - Built in **C#** and **C++**
 
 ---
 
